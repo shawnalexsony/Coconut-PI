@@ -1,7 +1,8 @@
-Allwinner V3s documentation - <br> https://github.com/Squonk42/V3s_Documentation
+<h3> Allwinner V3s documentation - </h3> 
+https://github.com/Squonk42/V3s_Documentation
 
 <br>
-Allwinner V3s based SBC designs - 
+<h3>Allwinner V3s based SBC designs - </h3>
 
 1 - Blueberry PI -<br>
  https://github.com/petit-miner/Blueberry-PI
