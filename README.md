@@ -1,5 +1,6 @@
 # Coconut-PI
 
-An Allwinner based SBC based on Allwinner V3s. DIY solution inspired from Raspberry PI.
+An Open Source SBC (Single Board Computer) design based on Allwinner V3s SoC. 
 
-Work in progress
+Work in progress...... Currently in HLD phase
+Stay tuned for updates
