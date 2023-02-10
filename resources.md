@@ -1,19 +1,19 @@
-Allwinner V3s documentation - https://github.com/Squonk42/V3s_Documentation
+Allwinner V3s documentation - <br> https://github.com/Squonk42/V3s_Documentation
 
-
+<br>
 Allwinner V3s based SBC designs - 
 
-1 - Blueberry PI 
-- https://github.com/petit-miner/Blueberry-PI
+1 - Blueberry PI -<br>
+ https://github.com/petit-miner/Blueberry-PI
 
-2 - SBC Allwinner V3s 
-- https://github.com/vd-rd/sbc_allwinner_v3s
+2 - SBC Allwinner V3s -<br> 
+ https://github.com/vd-rd/sbc_allwinner_v3s
 
-3 - KS V3s 
-- https://github.com/Kevincoooool/KS_V3S
+3 - KS V3s -<br>
+ https://github.com/Kevincoooool/KS_V3S
 
-4 - Litchee PI - 
-- https://github.com/Zepan/lichee-pi-zero
-- https://licheezero.readthedocs.io/zh/latest/
-- https://wiki.sipeed.com/hardware/en/lichee/Zero/Zero.html
-- https://zee2.github.io/2020/01/18/licheepi-zero/
+4 - Litchee PI -<br>
+ https://github.com/Zepan/lichee-pi-zero <br>
+ https://licheezero.readthedocs.io/zh/latest/ <br>
+ https://wiki.sipeed.com/hardware/en/lichee/Zero/Zero.html <br>
+ https://zee2.github.io/2020/01/18/licheepi-zero/ <br>
