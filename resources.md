@@ -17,4 +17,9 @@ https://github.com/Squonk42/V3s_Documentation
  https://github.com/Zepan/lichee-pi-zero <br>
  https://licheezero.readthedocs.io/zh/latest/ <br>
  https://wiki.sipeed.com/hardware/en/lichee/Zero/Zero.html <br>
+ 
+ 
+ <h3>Software guide for V3s Linux builds</h3>
  https://zee2.github.io/2020/01/18/licheepi-zero/ <br>
+ https://github.com/petit-miner/Blueberry-PI/wiki <br>
+ https://github.com/petit-miner/Blueberry-PI/blob/master/documentation_DE.pdf <br>
