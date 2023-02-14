@@ -1,7 +1,7 @@
 <h3> Allwinner V3s documentation - </h3> 
 https://github.com/Squonk42/V3s_Documentation
 
-<br>
+<br> 
 <h3>Allwinner V3s based SBC designs - </h3>
 
 1 - Blueberry PI -<br>
@@ -18,6 +18,8 @@ https://github.com/Squonk42/V3s_Documentation
  https://licheezero.readthedocs.io/zh/latest/ <br>
  https://wiki.sipeed.com/hardware/en/lichee/Zero/Zero.html <br>
  
+5 - Spotify Box -<br> 
+ https://web.archive.org/web/20210921202723/https://evanhailey.com/2021/09/20/spot-box/ <br> <br>
  
  <h3>Software guide for V3s Linux builds</h3>
  https://zee2.github.io/2020/01/18/licheepi-zero/ <br>
