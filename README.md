@@ -17,6 +17,7 @@ Few of the Applications I have in mind besides as a development kit - Home autom
 
 
  Currently in Planning/High level Design phase. 
+ 
  Overall you can expect basic interfaces like GPIO, I2C, SPI, UART, 10/100Mbps Ethernet, WiFi/BT, and a standard 40 pin FPC connector for LCD display.
  
  This plan might vary depending on component availability. Also I may design this as a single board development kit or a combo of 1 main card and multiple add on cards (options for WiFi/BT, LCD display, CSI camera, Audio Amp,etc.)
